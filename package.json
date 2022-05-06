@@ -43,7 +43,7 @@
     "chalk": "5.0.1",
     "cross-env": "^7.0.3",
     "del": "^6.0.0",
-    "electron": "17.2.0",
+    "electron": "18.2.0",
     "electron-builder": "^23.0.3",
     "electron-devtools-vendor": "^1.0.5",
     "electron_updater_node_cli": "^0.1.3",
